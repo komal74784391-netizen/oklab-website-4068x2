@@ -1,0 +1,5 @@
+baseURL: "https://okonkwo-lab.example.org"
+title: "Okonkwo Lab"
+description: "Marine bioacoustics and conservation technology"
+contentDir: "content"
+defaultContentLanguage: "en"
