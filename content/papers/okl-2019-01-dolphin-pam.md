@@ -11,7 +11,6 @@ accepted_on: "2018-11-28"
 published_on: "2019-02-11"
 doi: "10.7744/jma.2019.0142"
 arxiv_id: "arXiv:1807.04122"
-paper_repo: "https://github.com/komal74784391-netizen/oklab-dolphin-pam-4068x2"
 summary: "Long-term recordings from five coastal sites are used to characterise dolphin foraging activity and its tidal drivers."
 ---
 

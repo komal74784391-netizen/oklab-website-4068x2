@@ -11,7 +11,7 @@ accepted_on: "2022-08-24"
 published_on: "2022-12-01"
 doi: "10.1016/eil.2022.104873"
 arxiv_id: "arXiv:2105.07691"
-paper_repo: "https://github.com/komal74784391-netizen/oklab-estuary-placement-4068x2"
+paper_repo: "https://github.com/oklab-code-mirror/estuary-placement"
 summary: "Greedy and convex relaxations for selecting a small set of hydrophone positions that maximises soundscape coverage."
 ---
 
