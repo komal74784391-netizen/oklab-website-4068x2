@@ -11,6 +11,7 @@ accepted_on: "2021-01-21"
 published_on: "2021-04-08"
 doi: "10.1109/tosp.2021.338811"
 arxiv_id: "arXiv:2009.01244"
+paper_repo: "https://github.com/komal74784391-netizen/oklab-fwsong-embed-4068x2"
 summary: "Contrastive pretraining on unlabelled fin whale recordings followed by lightweight segmentation heads."
 ---
 

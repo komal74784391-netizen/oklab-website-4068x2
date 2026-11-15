@@ -10,7 +10,6 @@ revised_on: "2020-05-22"
 accepted_on: "2020-06-30"
 doi: "10.5555/icea.2020.0317"
 arxiv_id: "arXiv:2002.09137"
-paper_repo: "https://github.com/komal74784391-netizen/oklab-cetacean-callbench-4068x2"
 summary: "A reproducible benchmark of cetacean call detection models across three noise regimes, with fixed splits and evaluation scripts."
 ---
 
